@@ -43,7 +43,7 @@ public class HomeController {
 	 */
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public ModelAndView home1(ModelAndView mv) {
-		
+		System.out.println("16");
 		
 		List <ProductVO> list = ProductDAO.mainProductList("상의");
 		
