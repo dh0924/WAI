@@ -1,7 +1,0 @@
-@charset "EUC-KR";
-#all-slide {width: 1050px; height: 400px; background-color: #ffffff; margin: 0 auto;}
-	
-	/* banner */
-.banner {position: relative; width: 1050px; height: 400px; top: 50px;  margin:0 auto; padding:0; overflow: hidden;}
-.banner ul {position: absolute; margin: 0px; padding:0; list-style: none; }
-.banner ul li {float: left; width: 1050px; height: 400px; margin:0; padding:0;}

@@ -1,9 +1,0 @@
-@charset "EUC-KR";
-#all-content {
-        width: 1050px;
-        padding: 0px;
-        margin-bottom: 0px;
-        float: right;
-        text-align:center;
-      }
-      
